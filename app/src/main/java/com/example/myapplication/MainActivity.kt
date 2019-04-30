@@ -6,6 +6,7 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
 
     //g호우호우호우호우!
+    //호호우우호호우우
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
